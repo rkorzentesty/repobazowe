@@ -22,7 +22,8 @@ lub
 
 ### dodaj zmiany
 
-Dodaję zmiany, np: 
+
+Dodaję zmiany w kodzie poleceniami: 
 
     git add .
     git commit -m "dodanie poleceń"
