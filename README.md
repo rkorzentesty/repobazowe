@@ -6,7 +6,7 @@
 
 ### zrób forka
 
-To robimy w github
+To robimy w githubie
 
 ### sklonuj go lokalnie
 
@@ -22,7 +22,7 @@ lub
 
 ### dodaj zmiany
 
-Dodaję zmiany: 
+Dodaję zmiany, np: 
 
     git add .
     git commit -m "dodanie poleceń"
