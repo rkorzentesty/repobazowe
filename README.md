@@ -6,8 +6,7 @@
 
 ### zrób forka
 
-To robimy w 
-github
+To robimy w github. Będziesz mieć na swoim koncie nowe repo.
 
 ### sklonuj go lokalnie
 
@@ -21,9 +20,9 @@ lub
 
     git branch new
 
-### dodaj zmiany w repo
 
-Dodaję zmiany: 
+### dodaj zmiany w repo
+Dodaję zmiany w kodzie poleceniami: 
 
     git add .
     git commit -m "dodanie poleceń"
