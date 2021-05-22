@@ -6,7 +6,8 @@
 
 ### zrób forka
 
-To robimy w github
+To robimy w 
+github
 
 ### sklonuj go lokalnie
 
@@ -20,7 +21,7 @@ lub
 
     git branch new
 
-### dodaj zmiany
+### dodaj zmiany w repo
 
 Dodaję zmiany: 
 
