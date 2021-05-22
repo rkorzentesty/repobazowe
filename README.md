@@ -20,8 +20,8 @@ lub
 
     git branch new
 
-### dodaj zmiany i wyślij je do repo
 
+### dodaj zmiany w repo
 Dodaję zmiany w kodzie poleceniami: 
 
     git add .
