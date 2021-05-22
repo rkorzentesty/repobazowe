@@ -40,5 +40,7 @@ To znowu robimy w github
 ### kliknij "Create pull request" by stworzyć nowy pull request
 
 
+### Dodaję jakieś przykłady
 
+Lorem ipsum
 
